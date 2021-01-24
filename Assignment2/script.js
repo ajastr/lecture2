@@ -20,7 +20,6 @@ function init() {
     camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1,1000 )
     camera.position.y = -40
     camera.position.z = 50
-    camera.zoom = 1
     camera.updateProjectionMatrix()
 
     // create the renderer and add it to the html
