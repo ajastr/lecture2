@@ -8,6 +8,7 @@ These examples introduce html and javascript concepts we'll be using in the semi
 - [Example 2](example2): A sample that uses the [rhino3dm](https://www.rhino3d.com/features/rhino3dm/) library
 - [Example 3](example3): A sample that creates Rhino objects with the rhino3dm library and visualizes them with three.js
 - [Assignment2](Assignment2): File for BIMSC Week 2 submission
+  https://ajastr.github.io/macad-2S1-Lecture-2/
 
 ## References
 
